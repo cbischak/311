@@ -1,0 +1,41 @@
+@media only screen and (max-width: 488px) {
+  body {
+    padding-top: 100px
+  }
+}
+.legend {
+  list-style: none;
+}
+
+.legend li {
+  float: left;
+  margin-right: 10px;
+}
+
+.legend span {
+  border: 1px solid #ccc;
+  float: left;
+  width: 12px;
+  height: 12px;
+  margin: 2px;
+}
+
+.properlyserved {
+  background-color: #faead099;
+  background-color: #faead0;
+}
+
+.transitdessert {
+  background-color: #db5a2599;
+  background-color: #db5a25;
+}
+
+.transitoasis {
+  background-color: #a0cc6c99;
+  background-color: #a0cc6c;
+}
+
+div#googft-mapCanvas {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
